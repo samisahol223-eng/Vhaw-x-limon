@@ -1,0 +1,15 @@
+Flask
+pycryptodome
+protobuf
+urllib3
+requests
+httpx
+google
+protobuf
+pycryptodome
+psutil
+PyJWT
+protobuf-decoder
+pytz
+aiohttp
+cfonts
